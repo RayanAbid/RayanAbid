@@ -9,11 +9,14 @@
 - :seedling: &nbsp;I’m currently learning **[Solidity]**
 <!-- - :writing_hand: &nbsp;I regulary write article on my **[blog]** -->
 - :speech_balloon: &nbsp;I love **Web 3.0** and **JavaScript**
-- :mailbox: &nbsp; Feel free to ask me any questions I'm always glad to **help** :smile:
-- :computer: &nbsp;Find me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **[Twitter]**
+- 🙂 Feel free to ask me any questions I'm always glad to **help** 
+- :computer: &nbsp;Find me on **[LinkedIn]** &&  **[Twitter]**
+<!-- - :bird: &nbsp;Let's talk more in -->
 
 <br>
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="rayan-abid-13699a1a1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/rayan-abid-13699a1a1?trk=profile-badge">Rayan Abid</a></div>
 
 <h2 align="left" id="rayanabid-tech">Favorite Tech</h2>
 
@@ -192,7 +195,6 @@
     
 </table>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="rayan-abid-13699a1a1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/rayan-abid-13699a1a1?trk=profile-badge">Rayan Abid</a></div>
 
 
 ## ✍️ Latest Articles
