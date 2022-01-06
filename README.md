@@ -2,16 +2,17 @@
 <h3 align="left">I am a Software Developer at Nordstone </h3>
 
 <a href="#rayanabid-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayanAbid&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Rayan Abid" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RayanAbid&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="Rayan Abid" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **Nordstone UK**
 - :seedling: &nbsp;I’m currently learning **[Solidity]**
-<!-- - :writing_hand: &nbsp;I regulary write article on my **[blog]** -->
 - :speech_balloon: &nbsp;I love **Web 3.0** and **JavaScript**
 - 🙂 Feel free to ask me any questions I'm always glad to **help** 
-- :computer: &nbsp;Find me on **[LinkedIn]** &&  **[Twitter]**
+- :computer: &nbsp;Find me on **[LinkedIn]** & **[Twitter]**
 <!-- - :bird: &nbsp;Let's talk more in -->
+<!-- - :writing_hand: &nbsp;I regulary write article on my **[blog]** -->
+
 
 <br>
 
@@ -147,6 +148,33 @@
     </td>
   </tr>
    <tr>
+      <td align="center" width="96"> 
+      <a href="#rayanabid-tech" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+           <td align="center" width="96"> 
+      <a href="#rayanabid-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="48" height="40" alt="MySQL_DB" />
+      </a>
+      <br>My SQL
+    </td>
+     </td>
+           <td align="center" width="96"> 
+      <a href="#rayanabid-tech" >
+        <img src="https://iconape.com/wp-content/png_logo_vector/solidity.png" width="48" height="40" alt="Solidity" />
+      </a>
+      <br>Solidity
+    </td>
+        <td align="center" width="96">
+      <a href="#rayanabid-tech">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React Native
+    </td>
+     
+     
 <!--     <td align="center" width="96">
       <a href="#rayanabid-tech">
         <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
@@ -173,12 +201,7 @@
       </a>
       <br>Flask
     </td> -->
-     <td align="center" width="96"> 
-      <a href="#rayanabid-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
+    
 <!--           <td align="center" width="96"> 
       <a href="#rayanabid-tech" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
