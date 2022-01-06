@@ -16,8 +16,6 @@
 <br>
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="rayan-abid-13699a1a1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/rayan-abid-13699a1a1?trk=profile-badge">Rayan Abid</a></div>
-
 <h2 align="left" id="rayanabid-tech">Favorite Tech</h2>
 
 > Skills 📝.
@@ -135,6 +133,18 @@
       </a>
       <br>PHP
     </td> -->
+        <td align="center" width="96">
+      <a href="#rayanabid-tech">
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#rayanabid-tech">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Material ui
+    </td>
   </tr>
    <tr>
 <!--     <td align="center" width="96">
@@ -143,12 +153,7 @@
       </a>
       <br>TailWind
     </td> -->
-    <td align="center" width="96">
-      <a href="#rayanabid-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
+
 <!--     <td align="center" width="96">
       <a href="#rayanabid-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
@@ -161,12 +166,7 @@
       </a>
       <br>Tensorflow
     </td> -->
-    <td align="center" width="96">
-      <a href="#rayanabid-tech">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material ui
-    </td>
+    
 <!--     <td align="center" width="96">
       <a href="#rayanabid-tech">
         <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
