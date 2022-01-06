@@ -1,16 +1,16 @@
-<h1 align="left" id="rayanabid-title">:wave: Hey :smile:! I'm Rayan Abid</h1>
+<h1 align="left" id="rayanabid-title">Hey :smile:! My name is Rayan Abid</h1>
 <h3 align="left">I am a Software Developer at Nordstone </h3>
 
 <a href="#rayanabid-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayanabid&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RayanAbid&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Rayan Abid" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **Nordstone UK**
-- :seedling: &nbsp;I’m currently learning **[Solidity]**
-- :writing_hand: &nbsp;I regulary write article on my **[blog]**
-- :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :seedling: &nbsp;I’m currently learning **[Solidity]** & **[CT.js]**
+<!-- - :writing_hand: &nbsp;I regulary write article on my **[blog]** -->
+- :speech_balloon: &nbsp;I love **Web 3.0** and **JavaScript**
+- :mailbox: &nbsp; Feel free to ask me any questions I'm always glad to **help** :smile:
+- :computer: &nbsp;Find me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
 
 <br>
@@ -201,9 +201,9 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-[linkedin]: https://www.linkedin.com/in/rayanabid "LinkedIn"
-[twitter]: https://twitter.com/rayanabid "Twitter"
-[blog]: http://blog.rayanabid.com/ "Blog"
+[linkedin]: https://www.linkedin.com/in/RayanAbid "LinkedIn"
+[twitter]: https://twitter.com/rayanDoesTech "Twitter"
+[blog]: https://rayanabid.hashnode.dev/ "Blog"
 [solidity]: https://soliditylang.org/ "Solidity"
 
-<!-- [![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=rayanabid&theme=react-dark)](https://github.com/rayanabid) -->
+[![Rayan's github activity graph](https://activity-graph.herokuapp.com/graph?username=RayanAbid&theme=react-dark)](https://github.com/rayanabid)
