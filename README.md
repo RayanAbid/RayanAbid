@@ -5,11 +5,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RayanAbid&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="Rayan Abid" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Nordstone UK**
-- :seedling: &nbsp;I’m currently learning **[Solidity]**
-- :speech_balloon: &nbsp;I love **Web 3.0** and **JavaScript**
+<!-- - :office: &nbsp;I'm currently working at **Nordstone UK** -->
+- 📚 &nbsp;I’m currently learning **[Solidity]**
+- 💚 &nbsp;I love **Web 3.0** and **JavaScript**
 - 🙂 Feel free to ask me any questions I'm always glad to **help** 
-- :computer: &nbsp;Find me on **[LinkedIn]** & **[Twitter]**
+- 🔎 &nbsp;Find me on **[LinkedIn]** & **[Twitter]**
 <!-- - :bird: &nbsp;Let's talk more in -->
 <!-- - :writing_hand: &nbsp;I regulary write article on my **[blog]** -->
 
