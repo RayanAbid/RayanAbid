@@ -140,7 +140,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [The basics of web 1/3](https://rayanabid.hashnode.dev/the-basics-of-web-1)
+- [The basics of web](https://rayanabid.hashnode.dev/the-basics-of-web-1)
 <!-- BLOG-POST-LIST:END -->
 
 [linkedin]: https://www.linkedin.com/in/RayanAbid "LinkedIn"
