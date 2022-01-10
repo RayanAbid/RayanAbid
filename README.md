@@ -1,7 +1,7 @@
 <h1 align="left" id="rayanabid-title">Hey :smile:! My name is Rayan Abid. I'm a dev from Pakistan</h1>
 <h3 align="left">I am a Software Developer at Nordstone </h3>
 
-<!-- ![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg) -->
+![Design and Development](https://pbs.twimg.com/profile_banners/890195016399933442/1634880572/1500x500)
 
 <a href="#rayanabid-title">
   <img src="https://github-readme-stats.vercel.app/api?username=RayanAbid&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="Rayan Abid"  align="right"/>
