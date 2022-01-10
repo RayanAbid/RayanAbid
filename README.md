@@ -1,6 +1,8 @@
 <h1 align="left" id="rayanabid-title">Hey :smile:! My name is Rayan Abid. I'm a dev from Pakistan</h1>
 <h3 align="left">I am a Software Developer at Nordstone </h3>
 
+<!-- ![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg) -->
+
 <a href="#rayanabid-title">
   <img src="https://github-readme-stats.vercel.app/api?username=RayanAbid&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="Rayan Abid"  align="right"/>
 </a>
@@ -151,5 +153,18 @@
 
 
 [![Rayan's github activity graph](https://activity-graph.herokuapp.com/graph?username=RayanAbid&bg_color=0d1117&color=61c337&line=61c337&point=ffffff&area=true&hide_border=true)](https://github.com/rayanabid)
+
+[![Twitter][1.1]][1]
+[![LinkedIn][2.1]][2]
+
+
+
+
+[1.1]: https://img.icons8.com/cotton/64/000000/twitter.png
+[2.1]: https://img.icons8.com/officel/50/000000/linkedin.png
+
+
+[1]: https://twitter.com/rayanDoesTech
+[2]: https://www.linkedin.com/in/rayanabid/
 
 
