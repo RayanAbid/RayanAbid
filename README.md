@@ -142,6 +142,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Start making API calls using React redux-thunk](https://rayanabid.hashnode.dev/start-making-api-calls-using-react-redux-thunk)
 - [An open source Javascript game engine.](https://rayanabid.hashnode.dev/an-open-source-javascript-game-engine)
 - [The basics of web](https://rayanabid.hashnode.dev/the-basics-of-web-1)
 <!-- BLOG-POST-LIST:END -->
