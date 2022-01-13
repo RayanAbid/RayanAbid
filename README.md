@@ -149,7 +149,7 @@
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+
 
 [linkedin]: https://www.linkedin.com/in/RayanAbid "LinkedIn"
 [twitter]: https://twitter.com/rayanDoesTech "Twitter"
