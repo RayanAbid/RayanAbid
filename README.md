@@ -3,17 +3,26 @@
 
 ![Design and Development](https://pbs.twimg.com/profile_banners/890195016399933442/1634880572/1500x500)
 
+
 <!-- [![Rayan Abid StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15829739)](https://stackoverflow.com/users/15829739/rayan-abid) -->
 <a href="#rayanabid-title">
   <img src="https://github-readme-stats.vercel.app/api?username=RayanAbid&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="Rayan Abid"  align="right"/>
 </a>
 
-- 📚 &nbsp;I’m currently learning **[Solidity]**
-- 💚 &nbsp;I love **Web 3.0** and **JavaScript**
-- 🙂 Feel free to ask me any questions I'm always glad to **help** 
-- 🔎 &nbsp;Find me on **[LinkedIn]** & **[Twitter]**
 
+- 🔭 Just started writing blogs
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate and learn the world of open source
+- 🥅 2022 Goals: Contribute more to Open Source projects, and create my first npm package
+- 🦜 Fun fact: I have two pet birds
 <br>
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
 
 <h2 align="left" id="rayanabid-tech">Favorite Tech</h2>
 
@@ -158,23 +167,9 @@
 
 [linkedin]: https://www.linkedin.com/in/RayanAbid "LinkedIn"
 [twitter]: https://twitter.com/rayanDoesTech "Twitter"
+[linkedin]: https://www.linkedin.com/in/rayanabid/
 [blog]: https://rayanabid.hashnode.dev/ "Blog"
 [solidity]: https://soliditylang.org/ "Solidity"
 
 
 [![Rayan's github activity graph](https://activity-graph.herokuapp.com/graph?username=RayanAbid&bg_color=0d1117&color=61c337&line=61c337&point=ffffff&area=true&hide_border=true)](https://github.com/rayanabid)
-
-[![Twitter][1.1]][1]
-[![LinkedIn][2.1]][2]
-
-
-
-
-[1.1]: https://img.icons8.com/cotton/64/000000/twitter.png
-[2.1]: https://img.icons8.com/officel/50/000000/linkedin.png
-
-
-[1]: https://twitter.com/rayanDoesTech
-[2]: https://www.linkedin.com/in/rayanabid/
-
-
