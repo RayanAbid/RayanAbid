@@ -147,6 +147,10 @@
 - [The basics of web](https://rayanabid.hashnode.dev/the-basics-of-web-1)
 <!-- BLOG-POST-LIST:END -->
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 [linkedin]: https://www.linkedin.com/in/RayanAbid "LinkedIn"
 [twitter]: https://twitter.com/rayanDoesTech "Twitter"
 [blog]: https://rayanabid.hashnode.dev/ "Blog"
