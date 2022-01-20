@@ -75,7 +75,7 @@
     </td>
         <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind
     </td>
@@ -90,7 +90,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#rayanabid-tech">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+        <img src="https://www.gstatic.com/devrel-devsite/prod/vd66275adb6a18222c17fbda979bde6b3bf2a675531cc7e54b05dbb69d107b056/firebase/images/touchicon-180.png" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
@@ -171,6 +171,6 @@
 [linkedin]: https://www.linkedin.com/in/rayanabid/
 [blog]: https://rayanabid.hashnode.dev/ "Blog"
 [solidity]: https://soliditylang.org/ "Solidity"
+<!-- 
 
-
-[![Rayan's github activity graph](https://activity-graph.herokuapp.com/graph?username=RayanAbid&bg_color=0d1117&color=61c337&line=61c337&point=ffffff&area=true&hide_border=true)](https://github.com/rayanabid)
+[![Rayan's github activity graph](https://activity-graph.herokuapp.com/graph?username=RayanAbid&bg_color=0d1117&color=61c337&line=61c337&point=ffffff&area=true&hide_border=true)](https://github.com/rayanabid) -->
