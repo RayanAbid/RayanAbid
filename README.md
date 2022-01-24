@@ -152,7 +152,7 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the Blockchain? How to get start developing.](https://rayanabid.hashnode.dev/what-is-the-blockchain-how-to-get-start-developing)
+- [What is the Blockchain?](https://rayanabid.hashnode.dev/what-is-the-blockchain)
 - [Level up your terminal](https://rayanabid.hashnode.dev/figio)
 - [Start making API calls using React redux-thunk](https://rayanabid.hashnode.dev/start-making-api-calls-using-react-redux-thunk)
 - [An open source Javascript game engine.](https://rayanabid.hashnode.dev/an-open-source-javascript-game-engine)
