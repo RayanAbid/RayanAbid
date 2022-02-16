@@ -161,8 +161,8 @@
 
 ## ⚡ Latest github activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#249](https://github.com/markodenic/web-development-resources/pull/249) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 💪 Opened PR [#829](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/829) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#829](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/829) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 💪 Opened PR [#249](https://github.com/markodenic/web-development-resources/pull/249) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
 
