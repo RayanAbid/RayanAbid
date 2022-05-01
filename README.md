@@ -19,8 +19,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-xxl.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" style="color:white" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/green/twitter-xxl.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" style="color:white" src="https://www.iconsdb.com/icons/preview/green/linkedin-3-xxl.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" style="color:white" src="https://www.iconsdb.com/icons/preview/green/youtube-3-xxl.png" />][youtube]
 <br />
 
 
@@ -168,6 +169,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/RayanAbid "LinkedIn"
+[youtube]: https://www.youtube.com/channel/UCbUlt1T9VdaD-9ewO0D5B8w "Youtube"
 [twitter]: https://twitter.com/rayanDoesTech "Twitter"
 [linkedin]: https://www.linkedin.com/in/rayanabid/
 [blog]: https://rayanabid.hashnode.dev/ "Blog"
