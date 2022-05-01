@@ -19,9 +19,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/green/twitter-xxl.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" style="color:white" src="https://www.iconsdb.com/icons/preview/green/linkedin-3-xxl.png" />][linkedin]
-[<img align="left" alt="LinkedIn" width="22px" style="color:white" src="https://www.iconsdb.com/icons/preview/green/youtube-3-xxl.png" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/twitter-xxl.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" style="color:white" src="https://www.iconsdb.com/icons/preview/color/8B9A46/linkedin-3-xxl.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" style="color:white" src="https://www.iconsdb.com/icons/preview/color/8B9A46/youtube-3-xxl.png" />][youtube]
+[<img align="left" alt="LinkedIn" width="22px" style="color:white" src="https://www.iconsdb.com/icons/preview/color/8B9A46/globe-xxl.png" />][website]
 <br />
 
 
@@ -170,6 +171,7 @@
 
 [linkedin]: https://www.linkedin.com/in/RayanAbid "LinkedIn"
 [youtube]: https://www.youtube.com/channel/UCbUlt1T9VdaD-9ewO0D5B8w "Youtube"
+[website]: https://www.rayanabid.com/ "Website"
 [twitter]: https://twitter.com/rayanDoesTech "Twitter"
 [linkedin]: https://www.linkedin.com/in/rayanabid/
 [blog]: https://rayanabid.hashnode.dev/ "Blog"
