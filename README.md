@@ -17,6 +17,9 @@
 - 🦜 Fun fact: I have two pet birds
 <br>
 
+ <img src="https://novatorem-orcin-rho.vercel.app" alt="Spotify" />
+<!-- [![Spotify]()] -->
+
 ### Connect with me:
 
 [<img align="left" alt="Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/color/8B9A46/twitter-xxl.png" />][twitter]
