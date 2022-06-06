@@ -4,7 +4,8 @@
 ![Design and Development](https://pbs.twimg.com/profile_banners/890195016399933442/1634880572/1500x500)
 
 
-<!-- [![Rayan Abid StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15829739)](https://stackoverflow.com/users/15829739/rayan-abid) -->
+<!-- [![Spotify](https://novatorem-rayanabid.vercel.app/api/spotify)](https://open.spotify.com/user/31wejrspyk5odx3s3ycywqwn6aqe) -->
+
 <a href="#rayanabid-title">
   <img src="https://github-readme-stats.vercel.app/api?username=RayanAbid&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="Rayan Abid"  align="right"/>
 </a>
