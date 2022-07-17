@@ -176,8 +176,8 @@
 
 ## ⚡ Latest github activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#829](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/829) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#829](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/829) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. ❗️ Opened issue [#30](https://github.com/artiebits/fake-git-history/issues/30) in [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history)
+2. 🗣 Commented on [#29](https://github.com/artiebits/fake-git-history/issues/29) in [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history)
 <!--END_SECTION:activity-->
 
 
