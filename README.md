@@ -174,11 +174,6 @@
 - [An open source Javascript game engine.](https://rayanabid.hashnode.dev/an-open-source-javascript-game-engine)
 <!-- BLOG-POST-LIST:END -->
 
-## ⚡ Latest github activity
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/artiebits/fake-git-history/issues/30) in [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history)
-2. 🗣 Commented on [#29](https://github.com/artiebits/fake-git-history/issues/29) in [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history)
-<!--END_SECTION:activity-->
 
 
 
