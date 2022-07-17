@@ -156,11 +156,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Components Advanced - Props introduction  🚀 - React for beginners# 4 - Urdu / Hindi](https://www.youtube.com/watch?v=6lKkUTL6DMg)
 - [Components Basic 🚀 - React for beginners# 3 - Urdu / Hindi](https://www.youtube.com/watch?v=Hczgv76cFA8)
 - [Creating your first project 🚀 - React for beginners# 2 - Urdu / Hindi](https://www.youtube.com/watch?v=O-r6O2Lzx5Q)
 - [Introduction 🚀 - React for beginners# 1 - Urdu / Hindi](https://www.youtube.com/watch?v=qorqeizFMPE)
 - [How to get the typewriter effect in #reactjs #reacttutorial #reactjsforbeginners #youtubeshorts](https://www.youtube.com/watch?v=c805K49xgnM)
-- [TypeWriter Effect In ReactJS - Tutorial. Urdu/Hindi.](https://www.youtube.com/watch?v=2N-PhKF-uVk)
 <!-- YOUTUBE:END -->
 
 
