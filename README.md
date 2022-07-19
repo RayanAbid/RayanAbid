@@ -167,11 +167,11 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Setup multiple Github accounts on mac. 💻](https://rayanabid.hashnode.dev/setup-multiple-github-accounts-on-mac)
 - [How to get TypeWriter Effect In ReactJS](https://rayanabid.hashnode.dev/how-to-get-typewriter-effect-in-reactjs)
 - [What is the Blockchain?](https://rayanabid.hashnode.dev/what-is-the-blockchain)
 - [Level up your terminal](https://rayanabid.hashnode.dev/figio)
 - [Start making API calls using React redux-thunk](https://rayanabid.hashnode.dev/start-making-api-calls-using-react-redux-thunk)
-- [An open source Javascript game engine.](https://rayanabid.hashnode.dev/an-open-source-javascript-game-engine)
 <!-- BLOG-POST-LIST:END -->
 
 
