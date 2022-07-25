@@ -156,7 +156,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Make Javascript 100x faster 🔥 using Bun.](https://www.youtube.com/watch?v=ZiBAHDuZk6U)
+- [Make Javascript 100x faster 🔥 using Bun js.](https://www.youtube.com/watch?v=ZiBAHDuZk6U)
 - [Learn HTML in one video - HTML crash course for beginners &lpar;2022&rpar; 🚀](https://www.youtube.com/watch?v=cK1gWWEfke0)
 - [Components Advanced - Props introduction  🚀 - React for beginners# 4 - Urdu / Hindi](https://www.youtube.com/watch?v=6lKkUTL6DMg)
 - [Components Basic 🚀 - React for beginners# 3 - Urdu / Hindi](https://www.youtube.com/watch?v=Hczgv76cFA8)
