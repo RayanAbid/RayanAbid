@@ -156,7 +156,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Netlify for Beginners - How To Deploy Your First React Js Project &lpar;2022&rpar;](https://www.youtube.com/watch?v=pi7LqNUTlkY)
+- [🔥 Netlify for Beginners - How To Deploy Your First React Js Project &lpar;2022&rpar; 🔥](https://www.youtube.com/watch?v=pi7LqNUTlkY)
 - [React Js: Building a Simple Advice Generator App](https://www.youtube.com/watch?v=toj-LuIfs1w)
 - [Bun A New Runtime For JavaScript 🔥 - First look](https://www.youtube.com/watch?v=ZiBAHDuZk6U)
 - [Learn HTML in one video - HTML crash course for beginners &lpar;2022&rpar; 🚀](https://www.youtube.com/watch?v=cK1gWWEfke0)
