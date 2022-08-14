@@ -156,11 +156,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is Web 3.0? | What are the generations of the web?](https://www.youtube.com/watch?v=QNJen1_cUaQ)
 - [🔥 Netlify for Beginners - How To Deploy Your First React Js Project &lpar;2022&rpar; 🔥](https://www.youtube.com/watch?v=pi7LqNUTlkY)
 - [React Js: Building a Simple Advice Generator App](https://www.youtube.com/watch?v=toj-LuIfs1w)
 - [Bun A New Runtime For JavaScript 🔥 - First look](https://www.youtube.com/watch?v=ZiBAHDuZk6U)
 - [Learn HTML in one video - HTML crash course for beginners &lpar;2022&rpar; 🚀](https://www.youtube.com/watch?v=cK1gWWEfke0)
-- [Components Advanced - Props introduction  🚀 - React for beginners# 4 - Urdu / Hindi](https://www.youtube.com/watch?v=6lKkUTL6DMg)
 <!-- YOUTUBE:END -->
 
 
