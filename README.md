@@ -1,7 +1,9 @@
 <h1 align="left" id="rayanabid-title">Hey :smile:! My name is Rayan Abid. I'm a dev from Pakistan</h1>
 <h3 align="left">I am a Software Developer at Nordstone </h3>
 
-![Rayan Abid](https://user-images.githubusercontent.com/68749736/182690504-c8e8af47-5626-4d63-b99c-16fb7696176e.png)
+
+![Rayan Abid](https://user-images.githubusercontent.com/68749736/185468973-853ea926-9030-457b-b6d5-493483c9c6ff.png)
+
 
 
 <!-- [![Spotify](https://novatorem-rayanabid.vercel.app/api/spotify)](https://open.spotify.com/user/31wejrspyk5odx3s3ycywqwn6aqe) -->
