@@ -2,7 +2,7 @@
 <h3 align="left">I am a Software Developer at Nordstone </h3>
 
 
-![Rayan Abid](https://user-images.githubusercontent.com/68749736/185468973-853ea926-9030-457b-b6d5-493483c9c6ff.png)
+![Black Yellow White Green Red Business Digital Marketing Professional Youtube Channel Art Banner-min](https://user-images.githubusercontent.com/68749736/185469260-c7444463-cc08-40e6-9f3f-5f76df331cd1.png)
 
 
 
