@@ -158,7 +158,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Time to stop using Postman. Use VScode instead.](https://www.youtube.com/watch?v=7stAiN5VzqE)
+- [‎️‍🔥 How to use VScode for more efficient development work. ‎️‍🔥](https://www.youtube.com/watch?v=7stAiN5VzqE)
 - [What is Web 3.0? How to get started?](https://www.youtube.com/watch?v=QNJen1_cUaQ)
 - [🔥 Netlify for Beginners - How To Deploy Your First React Js Project &lpar;2022&rpar; 🔥](https://www.youtube.com/watch?v=pi7LqNUTlkY)
 - [React Js: Building a Simple Advice Generator App](https://www.youtube.com/watch?v=toj-LuIfs1w)
