@@ -158,7 +158,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [What are #smartcontracts ? #shorts #shortsfeed #web3 #webdevelopment #blockchian #solidity](https://www.youtube.com/watch?v=ThEEbr0q7pU)
+- [What are #smartcontracts ? #shorts #shortsfeed #web3 #webdevelopment #blockchian #solidity](https://www.youtube.com/watch?v=UnpYHitTFm4)
 - [These 5 services will make your lives easier #webdevelopment #shorts #shortsfeed #shortsvideo](https://www.youtube.com/watch?v=fNERlGxVJ3c)
 - [‎️‍🔥 How to use VScode for more efficient development work. ‎️‍🔥](https://www.youtube.com/watch?v=7stAiN5VzqE)
 - [What is Web 3.0? How to get started?](https://www.youtube.com/watch?v=QNJen1_cUaQ)
