@@ -30,6 +30,8 @@
 [<img align="left" alt="LinkedIn" width="22px" style="color:white" src="https://www.iconsdb.com/icons/preview/color/8B9A46/globe-xxl.png" />][website]
 <br />
 
+<a href="https://app.daily.dev/Rayan_Abid"><img src="https://api.daily.dev/devcards/95663e90913441fdbbcb8b68fea595c3.png?r=axr" width="200" alt="Rayan Abid's Dev Card"/></a>
+
 
 <h2 align="left" id="rayanabid-tech">Favorite Tech</h2>
 
