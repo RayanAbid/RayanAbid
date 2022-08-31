@@ -2,8 +2,7 @@
 <h3 align="left">I am a Software Developer at Nordstone </h3>
 
 
-![Black Yellow White Green Red Business Digital Marketing Professional Youtube Channel Art Banner-min](https://user-images.githubusercontent.com/68749736/185469260-c7444463-cc08-40e6-9f3f-5f76df331cd1.png)
-
+<img src="https://user-images.githubusercontent.com/68749736/187621298-b57edde9-88a3-4f74-96f5-360b49b74d12.gif" width="100%" height="100%"/>
 
 
 <!-- [![Spotify](https://novatorem-rayanabid.vercel.app/api/spotify)](https://open.spotify.com/user/31wejrspyk5odx3s3ycywqwn6aqe) -->
