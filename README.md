@@ -15,7 +15,7 @@
 - 🔭 Just started writing blogs
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate and learn the world of open source
-- 🥅 2022 Goals: Contribute more to Open Source projects, and create my first npm package
+- 🥅 2022 Goals: Contribute more to Open Source projects, and create my first npm package ✅
 - 🦜 Fun fact: I have two pet birds
 <br>
 
