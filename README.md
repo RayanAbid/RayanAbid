@@ -170,11 +170,11 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to set up GitHub pages.](https://blogs.rayanabid.com/how-to-set-up-github-pages)
 - [Setup multiple Github accounts on mac. 💻](https://blogs.rayanabid.com/setup-multiple-github-accounts-on-mac)
 - [How to get TypeWriter Effect In ReactJS](https://blogs.rayanabid.com/how-to-get-typewriter-effect-in-reactjs)
 - [What is the Blockchain?](https://blogs.rayanabid.com/what-is-the-blockchain)
 - [Level up your terminal](https://blogs.rayanabid.com/figio)
-- [Start making API calls using React redux-thunk](https://blogs.rayanabid.com/start-making-api-calls-using-react-redux-thunk)
 <!-- BLOG-POST-LIST:END -->
 
 
