@@ -19,6 +19,8 @@
 - 🦜 Fun fact: I have two pet birds
 <br>
 
+
+
 <!--  [![Spotify](https://novatorem-orcin-rho.vercel.app/api/spotify)](https://open.spotify.com/user/31wejrspyk5odx3s3ycywqwn6aqe) -->
 
 ### Connect with me:
@@ -178,6 +180,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rayanabid)
 
 
 [linkedin]: https://www.linkedin.com/in/RayanAbid "LinkedIn"
