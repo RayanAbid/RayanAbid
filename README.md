@@ -172,11 +172,11 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Build an awesome login form using HTML/CSS](https://blogs.rayanabid.com/build-an-awesome-login-form-using-htmlcss)
 - [How to set up GitHub pages.](https://blogs.rayanabid.com/how-to-set-up-github-pages)
 - [Setup multiple Github accounts on mac. 💻](https://blogs.rayanabid.com/setup-multiple-github-accounts-on-mac)
 - [How to get TypeWriter Effect In ReactJS](https://blogs.rayanabid.com/how-to-get-typewriter-effect-in-reactjs)
 - [What is the Blockchain?](https://blogs.rayanabid.com/what-is-the-blockchain)
-- [Level up your terminal](https://blogs.rayanabid.com/figio)
 <!-- BLOG-POST-LIST:END -->
 
 
