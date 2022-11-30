@@ -19,7 +19,7 @@
 - 🦜 Fun fact: I have two pet birds
 <br>
 
-![@rayanabid's Holopin board](https://holopin.me/rayanabid)
+<!-- ![@rayanabid's Holopin board](https://holopin.me/rayanabid) -->
 
 
 ### Connect with me:
