@@ -1,4 +1,5 @@
 name: GitHub Readme YouTube Cards
+
 on:
   schedule:
     # Runs every hour, on the hour
@@ -9,7 +10,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - uses: DenverCoder1/github-readme-youtube-cards@1.4.0
         with:
           channel_id: UCbUlt1T9VdaD-9ewO0D5B8w
           comment_tag_name: YOUTUBE-CARDS
