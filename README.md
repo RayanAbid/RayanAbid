@@ -172,11 +172,11 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev Retro 2022: becoming a Software Developer.](https://blogs.rayanabid.com/dev-retro-2022-becoming-a-software-developer)
 - [Your Roadmap to becoming a Full Stack Dev in 2023](https://blogs.rayanabid.com/your-roadmap-to-becoming-a-full-stack-dev-in-2023)
 - [Build an awesome login form using HTML/CSS](https://blogs.rayanabid.com/build-an-awesome-login-form-using-htmlcss)
 - [How to set up GitHub pages.](https://blogs.rayanabid.com/how-to-set-up-github-pages)
 - [Setup multiple Github accounts on mac. 💻](https://blogs.rayanabid.com/setup-multiple-github-accounts-on-mac)
-- [How to get TypeWriter Effect In ReactJS](https://blogs.rayanabid.com/how-to-get-typewriter-effect-in-reactjs)
 <!-- BLOG-POST-LIST:END -->
 
 
