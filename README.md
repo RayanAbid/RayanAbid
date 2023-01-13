@@ -7,9 +7,9 @@
 
 <!-- [![Spotify](https://novatorem-rayanabid.vercel.app/api/spotify)](https://open.spotify.com/user/31wejrspyk5odx3s3ycywqwn6aqe) -->
 
-<a href="#rayanabid-title">
+<!-- <a href="#rayanabid-title">
   <img src="https://github-readme-stats.vercel.app/api?username=RayanAbid&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="Rayan Abid"  align="right"/>
-</a>
+</a> -->
 
 
 - 🔭 Just started writing blogs
